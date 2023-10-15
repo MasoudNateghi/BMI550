@@ -1,1 +1,1 @@
-# Natural Language Processing for BioNLP Course Assignments
+# Emory BMI550 Course Assignments
